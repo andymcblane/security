@@ -1,1 +1,1 @@
-# security
+# A place to review, consider and learn web & application security.

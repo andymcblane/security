@@ -34,4 +34,6 @@ The vulnerabilities I identified are as follows:
 
 Additionally no SSL pinning left it vulnerable to a MITM attack in the first place.
 
-TBC..
+They ended up revoking all prizes I won, and sent me a lovely letter (on a McDonald's letter head, sadly I do not still have this) stating to _please stop_ or they would need to contact AFP regarding this.
+
+I was slightly concerned about that situation occuring, though as I was only 17 at the time, I hoped if anything, I would go down the "gifted" route in cybersecurity.
